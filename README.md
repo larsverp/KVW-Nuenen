@@ -13,7 +13,7 @@ Deze repo vertegenwoordigd het IP S3 (Individual Project Semester 3) van Lars va
     - [Must](#must)
     - [Should](#should)
     - [Could](#could)
-    - [Won't have this time](#wonthavethistime)
+    - [Won't have this time](#wont-have-this-time)
 
 <br>
 
