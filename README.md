@@ -14,6 +14,10 @@ Deze repo vertegenwoordigd het IP S3 (Individual Project Semester 3) van Lars va
     - [Should](#should)
     - [Could](#could)
     - [Won't have this time](#wont-have-this-time)
+- [C4 Model](#c4-model)
+    - [C4 Level 1](#level-1)
+    - [C4 Level 2](#level-2)
+    - [C4 Level 3](#level-3)
 
 <br>
 
@@ -81,3 +85,18 @@ In dit hoofdstuk staan de huidige requirements opgesteld in een MoSCoW model. De
 ## Won't have this time
 -	Automatisch een draaiboek bouwen.
 -	Automatiche mail voor kosten verloren T-shirt sturen.
+
+<br>
+
+# C4 Model
+In dit hoofdstuk staan level 1-3 van het C4 model. Het C4 model is een "abstraction-first" manier voor het maken van software architecture diagrammen. Voor het maken van deze 3 diagrammen heb ik [deze video](https://www.youtube.com/watch?v=x2-rSnhpw0g) bekeken. Meer informatie over het C4 model is te vinden op [c4model.com](https://c4model.com/).
+
+## Level 1
+
+![Level 1 van het C4 model](https://i.ibb.co/kqfF6f7/KVW-Nuenen-2.png)
+
+## Level 2
+{COMING-SOON}
+
+## Level 3
+{COMING-SOON}
