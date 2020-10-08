@@ -24,7 +24,7 @@ Deze repo vertegenwoordigd het IP S3 (Individual Project Semester 3) van Lars va
 # Introductie
 [KVW Nuenen](https://kvwnuenen.nl/) (Kinder Vakantie Week Nuenen) is een onafhankelijke stichting, die al sinds 1983 ieder jaar in de laatste week van de zomervakantie een leuke week neerzet voor kinderen die vanwege financiële omstandigheden niet op vakantie kunnen. Met deze filosofie is de KVW opgezet en door de jaren zijn wij een begrip geworden in Nuenen. Niet meer alleen meer voor kinderen die niet op vakantie kunnen, maar voor alle kinderen. Echter krijgen kinderen die vanuit [Stichting Leergeld](https://www.leergeld.nl/) worden aangemeld wel voorang.
 
-Sinds {YEAR} is de KVW onder een nieuwe organisatie + bestuur gekomen. Deze Organisatie bestaat op het moment uit 11 leden in de leeftijdsgroep 20 tot 28. Doordat de organisatie uit jonge leden bestaat, is de KVW de afgelopen jaren erg gemoderniseerd. Zo zijn de inschrijvingen sinds 2018 voledig via een online formulier (voorheen werd dit via mail gedaan.) en wordt sinds 2019 ook de aanwezigheid van de kinderen digitaal bijgehouden.
+Sinds 2015 is de KVW onder een nieuwe organisatie + bestuur gekomen. Deze Organisatie bestaat op het moment uit 11 leden in de leeftijdsgroep 20 tot 28. Doordat de organisatie uit jonge leden bestaat, is de KVW de afgelopen jaren erg gemoderniseerd. Zo zijn de inschrijvingen sinds 2018 voledig via een online formulier (voorheen werd dit via mail gedaan.) en wordt sinds 2019 ook de aanwezigheid van de kinderen digitaal bijgehouden.
 
 <br>
 
@@ -49,42 +49,42 @@ In het oude systeem moesten kinderen via de DB in een groepje geplaatst worden. 
 In dit hoofdstuk staan de huidige requirements opgesteld in een MoSCoW model. Deze requirements kunnen gedurende het project aangepast worden.
 
 ## Must
--	Eén site van maken. (Bij login kiezen voor ouder of vrijwilliger)
--	Kinderen afwezig en aanwezig melden als vrijwilliger.
--	Verjaardagen zien van kinderen.
--	Vrijwilligers aan groepjes koppelen.
--	Organisatie leden toevoegen/verwijderen.
+-	M01 - Eén site van maken. (Bij login kiezen voor ouder of vrijwilliger)
+-	M02 - Kinderen afwezig en aanwezig melden als vrijwilliger.
+-	M03 - Verjaardagen zien van kinderen.
+-	M04 - Vrijwilligers aan groepjes koppelen.
+-	M05 - Organisatie leden toevoegen/verwijderen.
 
 
 ## Should
--	T-shirts bij persoon koppelen.
--	Centraal emails kunnen sturen.
--	Per groepje email kunnen sturen.
--	Standaard email template maken.
--	Foto’s meteen delen via de site.
--	Vrijwilligers programma inzien.
--	Groepslijsten uitprinten voor noodgevallen.
--	Bijzonderheden lijst online maken.
--	Betalingen beheren.
--	Kinderen uitschrijven.
--	Gevonden voorwerpen + email verzenden.
--	Mobiel vriendelijke website.
+-	S01 - T-shirts bij persoon koppelen.
+-	S02 - Centraal emails kunnen sturen.
+-	S03 - Per groepje email kunnen sturen.
+-	S04 - Standaard email template maken.
+-	S05 - Foto’s meteen delen via de site.
+-	S06 - Vrijwilligers programma inzien.
+-	S07 - Groepslijsten uitprinten voor noodgevallen.
+-	S08 - Bijzonderheden lijst online maken.
+-	S09 - Betalingen beheren.
+-	S10 - Kinderen uitschrijven.
+-	S11 - Gevonden voorwerpen + email verzenden.
+-	S12 - Mobiel vriendelijke website.
 
 
 ## Could
--	Naar kinderen van bepaalde leeftijd emails sturen.
--	App maken in flutter.
--	Programma maken via de site.
--	Bijzonderheden lijst uit kunnen printen.
--	Spelopbouw lijsten digitaal en kunnen uitprinten.
--	Contact met organisatieleden hebben.
--	Kosten declareren aan de penningmeester.
--	Email over shirts sturen.
+-	C01 - Naar kinderen van bepaalde leeftijd emails sturen.
+-	C02 - App maken in flutter.
+-	C03 - Programma maken via de site.
+-	C04 - Bijzonderheden lijst uit kunnen printen.
+-	C05 - Spelopbouw lijsten digitaal en kunnen uitprinten.
+-	C06 - Contact met organisatieleden hebben.
+-	C07 - Kosten declareren aan de penningmeester.
+-	C08 - Email over shirts sturen.
 
 
 ## Won't have this time
--	Automatisch een draaiboek bouwen.
--	Automatiche mail voor kosten verloren T-shirt sturen.
+-	W01 - Automatisch een draaiboek bouwen.
+-	W02 - Automatiche mail voor kosten verloren T-shirt sturen.
 
 <br>
 
@@ -99,4 +99,9 @@ In dit hoofdstuk staan level 1-3 van het C4 model. Het C4 model is een "abstract
 {COMING-SOON}
 
 ## Level 3
+{COMING-SOON}
+
+<br>
+
+# Mockups
 {COMING-SOON}
