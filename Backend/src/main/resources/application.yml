@@ -1,0 +1,10 @@
+app:
+  datasource:
+    jdbc-url: jdbc:mysql://kvw-nuenen.cokjxeo7clrb.us-east-2.rds.amazonaws.com:3306/DB-KVW-Nuenen
+    username: admin
+    password: zep7TAIY4pruy*fri
+    pool-size: 30
+    driver-class-name : com.mysql.cj.jdbc.Driver
+
+server:
+  port: 8082
