@@ -96,7 +96,7 @@ In dit hoofdstuk staan level 1-3 van het C4 model. Het C4 model is een "abstract
 ![Level 1 van het C4 model](https://i.ibb.co/kqfF6f7/KVW-Nuenen-2.png)
 
 ## Level 2
-{COMING-SOON}
+![Level 2 van het C4 model](https://i.ibb.co/NKcvq39/Level-2.png)
 
 ## Level 3
 {COMING-SOON}
